@@ -67,7 +67,7 @@ Genre Treemap: https://github.com/varmaanjali133-crypto/Netflix-EDA-Analysis/blo
 
 ## Content Analysis
 
- Content Analysis https: //github.com/varmaanjali133-crypto/Netflix-EDA-Analysis/blob/main/screenshots/content.png?raw=true
+ Content Analysis: https://github.com/varmaanjali133-crypto/Netflix-EDA-Analysis/blob/main/screenshots/content.png?raw=true
 
 
 
