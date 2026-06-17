@@ -55,6 +55,14 @@ The objective was to identify content trends, genre distribution, country contri
 
 ---
 
+## Dataset
+
+The dataset used in this project contains information about Netflix Movies and TV Shows, including title, genre, country, release year, rating, duration, and date added.
+
+Source: Kaggle Netflix Titles Dataset
+
+---
+
  ## Project Screenshots
 
 ### Growth of Netflix Content Over Time
