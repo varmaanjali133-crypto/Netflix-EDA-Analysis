@@ -57,5 +57,15 @@ The objective was to identify content trends, genre distribution, country contri
 
 ## Project Screenshots
 
-(Add screenshots below)
+## Growth Analysis
+
+![Growth Analysis]
+
+## Genre Analysis
+
+![Genre Analysis]
+
+## Content Analysis
+
+![Content Analysis] https://github.com/varmaanjali133-crypto/Netflix-EDA-Analysis/blob/main/screenshots/content.png?raw=true
 
