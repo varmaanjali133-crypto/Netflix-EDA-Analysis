@@ -59,19 +59,15 @@ The objective was to identify content trends, genre distribution, country contri
 
 ### Growth of Netflix Content Over Time
 
-!Growth Analysis 
-
-### Content Added Over Time
-
-!Date Added Analysis
+Growth Analysis: https://github.com/varmaanjali133-crypto/Netflix-EDA-Analysis/blob/main/screenshots/growth.png?raw=true
 
 ### Genre Analysis
 
-!Genre Treemap : https://github.com/varmaanjali133-crypto/Netflix-EDA-Analysis/blob/main/screenshots/genre.png?raw=true
+Genre Treemap: https://github.com/varmaanjali133-crypto/Netflix-EDA-Analysis/blob/main/screenshots/genre.png?raw=true
 
 ## Content Analysis
 
- Content Analysis https://github.com/varmaanjali133-crypto/Netflix-EDA-Analysis/blob/main/screenshots/content.png?raw=true
+ Content Analysis https: //github.com/varmaanjali133-crypto/Netflix-EDA-Analysis/blob/main/screenshots/content.png?raw=true
 
 
 
